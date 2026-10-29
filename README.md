@@ -24,7 +24,7 @@ A production-ready Python web scraper designed to extract data from websites req
    ```
 2. Run the scraper:
    ```bash
-  python session_crawler.py  
+   python session_crawler.py  ✅
    ```
 
 ## 📊 Database Output
