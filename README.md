@@ -1,4 +1,4 @@
-# Authenticated Session Scraper with Dynamic Pagination
+# session_crawler.py with Dynamic Pagination
 
 A production-ready Python web scraper designed to extract data from websites requiring user authentication. It bypasses basic CSRF-token protections, maintains login sessions efficiently via HTTP cookies, and processes multi-page catalogs.
 
